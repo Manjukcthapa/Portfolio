@@ -1,0 +1,22 @@
+.nav{
+display: flex;
+flex-direction: column;
+padding-top: 300px;
+color:white;
+margin-left: 40px;
+
+}
+
+.second-div{
+    background-color: black;
+    width:150px;
+    height:800px;
+}
+
+nav a{
+        list-style: none;
+        margin-bottom:30px;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+    }

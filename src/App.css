@@ -25,5 +25,10 @@
 
 
 .router{
-  background:#012345;
+  /* background:#012345; */
+  background-image: url("https://images.pexels.com/photos/509246/pexels-photo-509246.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
+

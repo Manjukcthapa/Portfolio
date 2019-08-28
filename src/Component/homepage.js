@@ -12,10 +12,10 @@ class HomePage extends React.Component {
             <a>contact</a>
           </nav>
         </div>
-        <div>
-          <h1>Manju KC</h1>
-          <p>I am Software Developer</p>
-        </div>
+        <div className="aboutinfo">
+           <h1>Manju KC</h1>
+           <p>Full Stack Developer</p>
+       </div>
       </div>
     );
   }

@@ -1,27 +1,57 @@
-.nav{
-display: flex;
-flex-direction: column;
-padding-top: 300px;
-color:white;
-margin-left: 40px;
+html {
+    height: 100%;
+  }
+  
+  body {
+    height: 100%;
+    margin: 0;
+    font-family: Ubuntu;
+    background-image: url("https://images.pexels.com/photos/509246/pexels-photo-509246.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
 
-}
+#page {
+    display: flex;
+  }
+  
+  #sideBar {
+    min-width: 100px;
+    max-width: 100px;
+    height:700px;
+    background:black;
+  }
+  
+  #content {
+    width: 100%;
+   
+  }
 
-.second-div{
-    background-color: black;
-    width:150px;
-    height:800px;
-}
-
-nav a{
-        list-style: none;
-        margin-bottom:30px;
-        padding: 0;
-        display: flex;
-        justify-content: space-around;
+nav  li{
+   color:white;
+   padding-top:40px;
+   list-style-type:none;
     }
 
-.aboutinfo{
-      margin-left: 500px;
-      margin-top:50px;
-    }
+  nav{
+      margin-top: 200px;
+  } 
+  
+  #content{
+     
+      margin-top: 300px;
+      color:white;
+      text-align: center;
+
+  }
+
+  img{
+      width:150px;
+      height:150px;
+      border-radius: 50%;
+  }
+
+   
+
+

@@ -1,6 +1,6 @@
 import React from "react";
-function App() {
-  const greeting = "Hello Function Component!";
+function Skills() {
+ 
   return;
   <div>
     <h1>Skills</h1>;
@@ -13,6 +13,15 @@ function App() {
       <p>Redux</p>
       <p>Bootstriap</p>
     </div>
+    <div>
+    <h3>Backend</h3>
+      <p>Node JS</p>
+      <P>Sqlite3</P>
+      <p>Postgres</p>
+      <p>Pgadmin</p>
+      <p>Database</p>
+     
+    </div>
   </div>;
 }
-export default App;
+export default Skills;

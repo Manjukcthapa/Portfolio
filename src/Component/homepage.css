@@ -36,9 +36,9 @@ nav li {
   }
 
   img{
-      width:200px;
-      height:200px;
-      border-radius:50%;
+      width:200px  !important;
+      height:200px  !important;
+      border-radius:50%  !important;
   }
 
   .maindiv{

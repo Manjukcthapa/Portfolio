@@ -1,27 +1,30 @@
 import React from "react";
+import "./homepage.css";
 function Skills() {
- 
-  return;
-  <div>
-    <h1>Skills</h1>;
+  return (
     <div>
-      <h3>Frontend</h3>
-      <p>HTML</p>
-      <P>css</P>
-      <p>Java Scritp</p>
-      <p>React</p>
-      <p>Redux</p>
-      <p>Bootstriap</p>
+      <h1 className="skills">Skills</h1>
+      <div className="maindiv">
+        <div className="seconddiv">
+          <h3>Frontend</h3>
+          <h4>HTML</h4>
+          <p>css</p>
+          <p>Java Scritp</p>
+          <p>React</p>
+          <p>Redux</p>
+          <p>Bootstrape</p>
+        </div>
+
+        <div className="thirddiv">
+          <h3>Backend</h3>
+          <p>Node JS</p>
+          <p>Sqlite3</p>
+          <p>Postgres</p>
+          <p>Pgadmin</p>
+          <p>Database</p>
+        </div>
+      </div>
     </div>
-    <div>
-    <h3>Backend</h3>
-      <p>Node JS</p>
-      <P>Sqlite3</P>
-      <p>Postgres</p>
-      <p>Pgadmin</p>
-      <p>Database</p>
-     
-    </div>
-  </div>;
+  );
 }
 export default Skills;

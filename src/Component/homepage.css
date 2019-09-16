@@ -2,55 +2,62 @@ html {
     height: 100%;
   }
   
-  body {
-    height: 100%;
-    margin: 0;
-    font-family: Ubuntu;
-    background-image: url("https://images.pexels.com/photos/509246/pexels-photo-509246.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-  }
-
 #page {
     display: flex;
   }
-  
-  #sideBar {
-    min-width: 100px;
-    max-width: 100px;
-    height:700px;
-    background:black;
-  }
+
   
   #content {
     width: 100%;
    
   }
 
-nav  li{
-   color:white;
+nav li {
    padding-top:40px;
-   list-style-type:none;
+   text-decoration: none;
+    padding-left: 50px;
+    color:black;
     }
 
-  nav{
-      margin-top: 200px;
-  } 
   
+ nav ul {
+  display: flex;
+  flex-direction: row ;
+  flex-wrap:wrap;
+  list-style-type: none;
+  margin-left: 400px;
+ 
+ } 
   #content{
      
-      margin-top: 300px;
-      color:white;
+      margin-top: 100px;
       text-align: center;
 
   }
 
   img{
-      width:150px;
-      height:150px;
-      border-radius: 50%;
+      width:200px;
+      height:200px;
+      border-radius:50%;
   }
+
+  .maindiv{
+    display: flex;
+    flex-wrap:wrap;
+    margin-left: 50px;
+    justify-content:center;
+
+   
+  }
+
+  .thirddiv{
+    padding-left: 200px;
+  }
+
+  .skills{
+    margin-left: 600px;
+  }
+  
 
    
 

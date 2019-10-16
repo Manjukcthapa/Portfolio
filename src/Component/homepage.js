@@ -11,7 +11,7 @@ class HomePage extends React.Component {
         <div  id="content">
           <img className="team-img1" alt='profile' src={image} />
           <h1>Manju KC</h1>
-          <p>Full Stack Developer</p>
+          <p className="para">Full Stack Developer</p>
         </div>
       </div>
     );

@@ -1,35 +1,26 @@
+body{
+  background-color:#456A8C;
+}
+
 .App {
-  text-align: center;
+  /* text-align: center;   */
+}
+
+/* nav  {
+  background:white !important;
+  color: red;
+} */
+
+nav a {
+  color: black;
+}
+span{
+  color:white;
 }
 
 
-÷
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-ul
-{
-list-style-type: none;
-padding: 0;
-margin: 0;
-text-align: right;
-width: 10em;
-}
-
-li
-{
-background-position: 100% .4em;
-padding-right: .6em;
-margin: 1em 0;
-}
-
+ 
 
 
 

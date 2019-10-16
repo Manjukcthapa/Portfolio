@@ -4,6 +4,7 @@ html {
   
 #page {
     display: flex;
+    background-color:#070C33;
   }
 
   
@@ -16,7 +17,8 @@ nav li {
    padding-top:40px;
    text-decoration: none;
     padding-left: 50px;
-    color:black;
+    color:white ;
+    
     }
 
   
@@ -26,6 +28,7 @@ nav li {
   flex-wrap:wrap;
   list-style-type: none;
   margin-left: 400px;
+  color:white;
  
  } 
   #content{
@@ -39,6 +42,7 @@ nav li {
       width:200px  !important;
       height:200px  !important;
       border-radius:50%  !important;
+      border:5px solid white;
   }
 
   .maindiv{
@@ -57,6 +61,12 @@ nav li {
   .skills{
     margin-left: 600px;
   }
+  
+  h1,.para{
+    color:white;
+
+  }
+
   
 
    

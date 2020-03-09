@@ -59,12 +59,22 @@ nav li {
   }
 
   .skills{
-    margin-left: 600px;
+    margin-left: 200px;
+    color:black
   }
   
   h1,.para{
     color:white;
 
+  }
+
+  .skill{
+    height: auto;
+    width: 600px;
+    border: 10px solid #00004d;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: 50px;
   }
 
   

@@ -13,6 +13,7 @@ class HomePage extends React.Component {
           <h1>Manju KC</h1>
           <p className="para">Full Stack Developer</p>
         </div>
+        <div></div>
       </div>
     );
   }

@@ -5,11 +5,14 @@ html {
 #page {
     display: flex;
     background-color:#094470;
+    margin-top: 100px;
+    height:500px;
   }
 
   
   #content {
     width: 100%;
+  
    
   }
 
@@ -79,7 +82,7 @@ nav li {
     border: 10px solid #094470;
     background-color: white;
     margin-left: 400px;
-    margin-top: 50px;
+    margin-top: 150px;
   }
 
   .icon-text{

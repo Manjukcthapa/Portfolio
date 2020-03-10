@@ -6,7 +6,7 @@ class Projects2 extends React.Component {
 
     render(){
         return(
-            <div>
+            <div className = "projectdiv-main">
             <div className="secondproject">
             <div className="project1">
               <div>

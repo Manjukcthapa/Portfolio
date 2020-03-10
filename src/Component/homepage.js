@@ -10,7 +10,6 @@ class HomePage extends React.Component {
           <div id="content">
             <img className="team-img1" alt="profile" src={image} />
             <h1>Manju KC</h1>
-            <p className="para">Full Stack Developer</p>
             <div className="home-para">
             <p>
               I am a Full Stack Developer with a passion for solving problems. I

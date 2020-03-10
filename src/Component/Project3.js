@@ -5,7 +5,7 @@ import "./project.css";
 class Project3 extends React.Component {
   render() {
     return (
-      <div>
+      <div className = "projectdiv-main">
         <div>
           <div className="project1">
             <div></div>

@@ -7,7 +7,7 @@ function Skills() {
       <div className="maindiv">
         <div className="seconddiv">
           <h3>Frontend</h3>
-          <h4>HTML</h4>
+          <p>HTML</p>
           <p>css</p>
           <p>Java Scritp</p>
           <p>React</p>

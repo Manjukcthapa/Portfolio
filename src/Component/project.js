@@ -3,44 +3,9 @@ import "./project.css";
 import images1 from "../images/mympy.png";
 import Project2 from "./Project2"
 import Project3 from "./Project3"
+import Project4 from "./Project3"
 
 
-// class Projects extends React.Component {
-//   render() {
-//     return (
-//       <div>
-//       {/* <div className="projectdiv-main">
-//         <div className="secondproject">
-//           <div className="project1">
-//             <div>
-//               <img className="projectimg" src={images1} />
-//             </div>
-
-//             <div className="projectlink">
-//               <button className="button1">
-//                 <a clasName="link" href="https://github.com/mympy-dreamers">
-//                   GitHub
-//                 </a>
-//               </button>
-//               <button className="button1">
-//                 <a
-//                   clasName="secondlink"
-//                   href="https://mympydreamers.netlify.com/"
-//                 >
-//                   Live Site
-//                 </a>
-//               </button>
-//             </div>
-//           </div>
-//         </div>  ˇ
-//       </div> */}
-//       <div classname="newtab">
-//           <project2/>
-//            </div>
-//       </div>
-//     );
-//   }
-// }
 
 class Projects extends React.Component {
   render() {
@@ -79,8 +44,12 @@ class Projects extends React.Component {
           <div classname="newtab">
           <Project2/>
           </div>
-
+          <div>
           <Project3/>
+          </div>
+          <div>
+          <Project4/>
+          </div>
 
           </div>
 

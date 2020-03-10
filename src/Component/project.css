@@ -8,7 +8,7 @@ h2 {
 }
 
 .projectimg {
-  height: 250px !important;
+  height: 200px !important;
   width: 310px !important;
   border-radius: 5% !important;
   margin-left: 0px;
@@ -48,9 +48,10 @@ p {
 .buildproject{
     display:flex;
     flex-direction:row;
-    flex-wrap:row;
+    flex-wrap:wrap;
     margin-left: 80px;
     margin-right: 80px;
+   
 }
 
 .newtab{
@@ -63,7 +64,7 @@ p {
   margin-top: 30px;
   background: white;
   margin-left: 40px;
-
+  border: 4px solid #094470;
 
 }
 

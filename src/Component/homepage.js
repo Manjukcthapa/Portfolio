@@ -14,8 +14,8 @@ class HomePage extends React.Component {
             <p>
               I am a Full Stack Developer with a passion for solving problems. I
               have proficiency in HTML5, CSS3, SaaS, Bootstrap, Vanilla
-              JavaScript, JQuery, React, React-Native, Redux, Nodejs, Axios,
-              GraphQL, Python, Django, Sqlite3.
+              JavaScript, React, React-Native, Redux, Nodejs, Mangodb, Axios,
+               Python, Django, Sqlite3.
             </p>
             </div>
           </div>

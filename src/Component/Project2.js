@@ -1,5 +1,5 @@
 import React from 'react';
-import images from "../images/nasa.png";
+import images from "../images/wanderlust.png";
 import "./project.css";
 
 class Projects2 extends React.Component {
@@ -17,7 +17,7 @@ class Projects2 extends React.Component {
                 <button className="button1">
                   <a
                     clasName="link"
-                    href="https://github.com/Manjukcthapa/nasa-photo-of-the-day"
+                    href="https://github.com/wanderlust-bw"
                   >
                     GitHub
                   </a>
@@ -25,7 +25,7 @@ class Projects2 extends React.Component {
                 <button className="button1">
                   <a
                     clasName="secondlink"
-                    href="https://nasa-photo-of-the-day.kcmanjuthapa.now.sh/"
+                    href="https://wonderlust-manju.herokuapp.com/SignUp"
                   >
                     Live Site
                   </a>

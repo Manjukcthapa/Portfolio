@@ -1,15 +1,15 @@
 import React, { Component } from "react";
 import data from "../Component/data/data.js";
-import { Link } from "react-router-dom";
+import "./project.css"; 
 
 class ProjectList extends Component {
   render() {
     return (
-      <div>
+      <div >
         <h1>My Projects</h1>
         {data.map((post, id) => {
           return (
-            <div>
+            <div className="project-div">
               <img src={post.img}></img>
               <h1>{post.title}</h1>
               <h1>{post.contain}</h1>

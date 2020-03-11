@@ -7,7 +7,7 @@ import image3 from '../../images/nci.png';
     {
         "id":1,
         "img":image,
-        "title": "Pocaso Web App",
+        "title": "Picaso Web App",
         "contain":"Picaso is an web app, where you can upload your pic and it coverts to Picaso painting.",
         "technology": "ReactJS, HTML, CSS",
         "githublink":"//www.github.com/buildweekpicasso",

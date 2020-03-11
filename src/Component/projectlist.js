@@ -7,6 +7,7 @@ class ProjectList extends Component {
     return (
       <div >
         <h1>My Projects</h1>
+        <div className="project-map">
         {data.map((post, id) => {
           return (
             <div className="project-div">
@@ -24,9 +25,11 @@ class ProjectList extends Component {
                   <button>LiveLink</button>
                 </a>
               </div>
-            </div>
+              </div>
+           
           );
         })}
+         </div>
       </div>
     );
   }

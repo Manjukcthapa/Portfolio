@@ -69,14 +69,19 @@ p {
 } */ 
 
 .project-div{
-  display:flex;
-    flex-direction:row;
-    flex-wrap:wrap;
     background:white !important;
     height:500px;
     width:300px;
     margin-top: 20px;
+    margin-left: 80px;
 
+}
+
+.project-map{
+  display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+   
 }
 
 

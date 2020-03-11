@@ -16,7 +16,7 @@ import image3 from '../../images/nci.png';
     {
         "id":2,
         "img":image1,
-        "contain":"that is this",
+        "contain":"Mympy Dreams is a marketplace where individuals can create a profile and post their project and needs and find funding from the Mymphy Dreams community.In this project we have used  React, Redux, Styled Component, Nodejs, Postgress,JSON, AuthO, Web token",
         "githublink":"https://github.com/mympy-dreamers",
         "livelink":"https://mympydreamers.netlify.com/"
 
@@ -32,7 +32,7 @@ import image3 from '../../images/nci.png';
     {
         "id":4,
         "img":image3,
-        "contain":" where is where",
+        "contain":" Single page application for international child nutrition screening.In the world there are lot of county dont have child screening record. The purpose of creating this application was recording the child nutrition screeing for forever. As a backend I have used NodeJS, sQLite3, bcrypt",
         "githublink":"https://github.com/intlChildNutrition",
         "livelink":"https://icn-tracking.netlify.com/dashboard"
 

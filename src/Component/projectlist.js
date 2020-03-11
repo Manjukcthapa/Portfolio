@@ -6,7 +6,7 @@ class ProjectList extends Component {
     render(){
         return(
            <div>
-               <h1>hello</h1>
+               <h1>My Projects</h1>
                {data.map((post, id) => {
                    return <div>
                        <img src={post.img}></img>

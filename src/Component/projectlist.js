@@ -11,7 +11,7 @@ class ProjectList extends Component {
         {data.map((post, id) => {
           return (
             <div className="project-div">
-              <img src={post.img}></img>
+              <img className="project-img" src={post.img}></img>
               <h1>{post.title}</h1>
               <h1>{post.contain}</h1>
               <h1>{post.technology}</h1>

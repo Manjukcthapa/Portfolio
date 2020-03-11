@@ -8,7 +8,7 @@ import image3 from '../../images/nci.png';
         "id":1,
         "img":image,
         "contain":"what is that",
-        "githublink":"https://github.com/buildweekpicasso",
+        "githublink":"//www.github.com/buildweekpicasso",
         "livelink":"https://picasso-manju.now.sh/"
 
     },

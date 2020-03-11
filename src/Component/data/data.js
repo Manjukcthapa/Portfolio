@@ -7,8 +7,8 @@ import image3 from '../../images/nci.png';
     {
         "id":1,
         "img":image,
-        "title": "Picaso Web App",
-        "contain":"Picaso is an web app, where you can upload your pic and it coverts to Picaso painting.",
+        "title": "Picasso Web App",
+        "contain":"Picasso is an web app, where you can upload your pic and it coverts to Picaso painting.",
         "technology": "ReactJS, HTML, CSS",
         "githublink":"//www.github.com/buildweekpicasso",
         "livelink":"https://picasso-manju.now.sh/"
@@ -38,7 +38,7 @@ import image3 from '../../images/nci.png';
         "id":4,
         "img":image3,
         "title":"Intl Child Nutrition",
-        "contain":" Single page application for international child nutrition screening.In the world there are lot of county dont have child screening record. The purpose of creating this application was recording the child nutrition screeing for forever.",
+        "contain":" International child nutrition is an web application.The purpose of creating this application was keep tracking record of child screening",
         "technology":"Nodejs, Sqlite3",
         "githublink":"https://github.com/intlChildNutrition",
         "livelink":"https://icn-tracking.netlify.com/dashboard"

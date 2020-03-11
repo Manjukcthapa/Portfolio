@@ -6,17 +6,21 @@ class ProjectList extends Component {
   render() {
     return (
       <div >
-        <h1>My Projects</h1>
+        <h1 className="projt-heading">My Projects</h1>
         <div className="project-map">
         {data.map((post, id) => {
           return (
             <div className="project-div">
               <img className="project-img" src={post.img}></img>
-              <h1>{post.title}</h1>
-              <h1>{post.contain}</h1>
-              <h1>{post.technology}</h1>
+              <div classname="project-decpt">
+              <h1 className="project-header project-title">{post.title}</h1>
+              <p className="project-header" className="paragraph">{post.contain}</p>
+              <p className="project-header paragraph ">{post.technology}</p>
+              </div>
+
+              <div className="project-button" >
               <div>
-                <a href={post.githublink}>
+                <a  className="link-button" href={post.githublink}>
                   <button>Github</button>
                 </a>
               </div>
@@ -24,6 +28,7 @@ class ProjectList extends Component {
                 <a href={post.livelink}>
                   <button>LiveLink</button>
                 </a>
+              </div>
               </div>
               </div>
            

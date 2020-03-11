@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import Home from './Component/homepage';
-import Projects from './Component/project'
+import Project from './Component/projectlist'
 import Education from './Component/Education'
 import "./App.css";
+
 
 
 import Skills from './Component/Skills';
@@ -25,7 +26,7 @@ class App extends Component {
           <Switch>
               <Route exact path='/' component={Home} />
               <Route path='/skills' component={Skills} />
-              <Route path='/Project' component={Projects}/>
+              <Route path='/Project' component={Project}/>
               <Route path='/Education' component={Education}/>
           </Switch>
         </div>

@@ -38,7 +38,7 @@ import image3 from '../../images/nci.png';
         "id":4,
         "img":image3,
         "title":"Intl Child Nutrition",
-        "contain":" International child nutrition is an web application.The purpose of creating this application was keep tracking record of child screening",
+        "contain":"International child nutrition is a web application. The purpose of creating this application was to keep tracking the record of child screening. Working as a Backend with 5 developers.",
         "technology":"Nodejs, Sqlite3",
         "githublink":"https://github.com/intlChildNutrition",
         "livelink":"https://icn-tracking.netlify.com/dashboard"

@@ -20,6 +20,7 @@ class App extends Component {
             <li><Link to={'/skills'} className="nav-link"><span>Skills</span></Link></li>
             <li><Link to={'/Project'} className="nav-link"><span>Project</span></Link></li>
             <li><Link to={'/Education'} className="nav-link"><span>Education</span></Link></li>
+            <a  className = "resume" href="https://drive.google.com/file/d/1-dqzYzTuIvOxbYGs6MTKispjH9J7t4eu/view">Resume</a>
           </ul>
           </nav>
           <hr />

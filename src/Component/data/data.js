@@ -10,7 +10,7 @@ import image3 from '../../images/nci.png';
         "title": "Picasso Web App",
         "contain":"Picasso is an web app, where you can upload your pic and it coverts to Picaso painting.",
         "technology": "ReactJS, HTML, CSS",
-        "githublink":"//www.github.com/buildweekpicasso",
+        "githublink":"https://github.com/buildweekpicasso/manjuLanding",
         "livelink":"https://picasso-manju.now.sh/"
     },
 
@@ -20,7 +20,7 @@ import image3 from '../../images/nci.png';
         "title":"Mympy Dreamers",
         "contain":"Mympy Dreams is a marketplace where individuals can create a profile and post their project and needs and find funding from the Mymphy Dreams community.",
         "technology":"React, Redux, Postgress, NodeJs",
-        "githublink":"https://github.com/mympy-dreamers",
+        "githublink":"https://github.com/mympy-dreamers/Frontend",
         "livelink":"https://mympydreamers.netlify.com/"
 
     },
@@ -30,7 +30,7 @@ import image3 from '../../images/nci.png';
         "title":"Wanderlust",
         "contain":"Single Project application for tourist lovers. A place for guide and tourist to meet and share their experience." ,
         "technology":"ReactJS, CSS",
-        "githublink":"https://github.com/wanderlust-bw",
+        "githublink":"https://github.com/wanderlust-bw/wanderlust-FE-Manju",
         "livelink":"https://wonderlust-manju.herokuapp.com/SignUp"
 
     },
@@ -40,7 +40,7 @@ import image3 from '../../images/nci.png';
         "title":"Intl Child Nutrition",
         "contain":"International child nutrition is a web application. The purpose of creating this application was to keep tracking the record of child screening. Working as a Backend with 5 developers.",
         "technology":"Nodejs, Sqlite3",
-        "githublink":"https://github.com/intlChildNutrition",
+        "githublink":"https://github.com/intlChildNutrition/intlChildNutrition-BE",
         "livelink":"https://icn-tracking.netlify.com/dashboard"
 
     }

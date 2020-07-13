@@ -29,7 +29,7 @@ nav li {
   flex-direction: row ;
   flex-wrap:wrap;
   list-style-type: none;
-  margin-left: 400px;
+  margin-left: 350px;
   /* color:white; */
  
  }
@@ -66,7 +66,7 @@ nav li {
 
   .skills{
     color:black;
-    text-align: center;
+    margin-left: 60px;
     
   }
   
@@ -80,7 +80,8 @@ nav li {
     width: 600px;
     border: 10px solid #094470;
     background-color: white;
-    margin-left: 400px;
+    margin-left:350px;
+    text-align: center;
     margin-top: 150px;
   }
 

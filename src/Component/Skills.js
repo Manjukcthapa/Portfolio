@@ -2,7 +2,7 @@ import React from "react";
 import "./homepage.css";
 function Skills() {
   return (
-    <div className = "skill">
+    <div className="skill">
       <h1 className="skills">Skills</h1>
       <div className="maindiv">
         <div className="seconddiv">

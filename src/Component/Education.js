@@ -4,6 +4,7 @@ import "./education.css";
 class Education extends React.Component {
   render() {
     return (
+      <div className="educationinfo">
       <div className="education">
         <h3  className="edu-head">Lambda School of Computer Science</h3>
         <div className="education-header">
@@ -32,6 +33,7 @@ class Education extends React.Component {
           Tables and Blockchains, Graphs and Computer Architecture.
         </p>
         </div>
+      </div>
       </div>
     );
   }

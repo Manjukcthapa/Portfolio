@@ -2,13 +2,17 @@
   height: auto;
   width: 650px;
   border: 10px solid #094470;
-  background-color: white;
-  margin-left: 300px;
-  margin-top: 150px;
+  background-color: white; 
+  margin-top: 130px;
 }
 .edu-head{
     text-align: center;
     margin-top: 20px;  
+}
+
+.educationinfo{
+  display: flex;
+  justify-content: center;
 }
 
 .education-header {

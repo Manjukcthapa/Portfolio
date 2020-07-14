@@ -2,6 +2,7 @@ import React from "react";
 import "./homepage.css";
 function Skills() {
   return (
+   <div className="skilltype">
     <div className="skill">
       <h1 className="skills">Skills</h1>
       <div className="maindiv">
@@ -24,6 +25,7 @@ function Skills() {
           <p>Database</p>
         </div>
       </div>
+    </div>
     </div>
   );
 }

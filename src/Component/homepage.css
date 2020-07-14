@@ -40,7 +40,7 @@ html {
 
   #content{
       text-align: center;
-      margin-top: 50px;
+      margin-top: 100px;
 
   }
 
@@ -93,8 +93,13 @@ html {
     width: 600px;
     border: 10px solid #094470;
     background-color: white;
-    margin-top: 150px;
-    margin-left: 300px;
+    margin-top: 130px;
+    /* margin-left: 300px; */
+  }
+
+  .skilltype{
+    display: flex;
+    justify-content: center;
   }
 
   .icon-text{

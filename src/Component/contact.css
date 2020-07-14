@@ -3,7 +3,32 @@
     width: 600px;
     border: 10px solid #094470;
     background-color: white;
-    margin-left:350px;
-    text-align: center;
+    
+  }
+
+  .contacticon{
+    display: flex;
+    flex-direction: row;
+   
+  }
+
+  .phonenumber{
+    margin-left: 30px;
+    font-size: 17px;
+  }
+
+  .fa{
+    margin-left: 50px;
+  }
+
+  .header3{
+    margin-left: 108px;
+  }
+
+  .information{
+    display: flex;
+    justify-content: center;
     margin-top: 150px;
   }
+
+  

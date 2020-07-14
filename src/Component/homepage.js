@@ -36,7 +36,7 @@ class HomePage extends React.Component {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.linkedin.com/in/manju-kc-440a40ba/"
+                href="https://www.linkedin.com/in/manjukc/"
               >
                 <i className="fab fa-linkedin fa-2x" />
               </a>

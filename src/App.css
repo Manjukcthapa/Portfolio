@@ -2,14 +2,6 @@ body{
   background-color:black;
 }
 
-.App {
-  /* text-align: center;   */
-}
-
-/* nav  {
-  background:white !important;
-  color: red;
-} */
 
 
 span{
@@ -18,8 +10,19 @@ span{
 
 .resume{
   color:white;
-  margin-left: 45px;
+  margin-left: 120px;
   text-decoration :none;
+}
+
+nav ul{
+  display:flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+nav li{
+  padding-left: 120px;
+  position: relative;
 }
 
 

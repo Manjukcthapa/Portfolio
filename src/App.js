@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
-import Home from './Component/homepage';
-import Project from './Component/projectlist'
+import Home from './Component/Homepage';
+import Project from './Component/Projectlist'
 import Education from './Component/Education'
 import Contact from './Component/Contact '
 import "./App.css";

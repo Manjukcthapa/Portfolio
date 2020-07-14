@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import data from "../Component/data/data.js";
+import data from "./data/data.js";
 import "./project.css";
 
 class ProjectList extends Component {

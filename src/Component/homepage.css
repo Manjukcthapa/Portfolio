@@ -15,28 +15,29 @@ html {
    
   }
 
-nav li {
-   /* padding-top:40px; */
+ 
+
+/* nav li {
    text-decoration: none;
-    padding-left: 50px;
-    /* color:white ; */
-    
+   padding-left: 100px;
     }
 
   
  nav ul {
   display: flex;
+  text-align:center;
   flex-direction: row ;
-  flex-wrap:wrap;
+  justify-content: center;
+  /* justify-content: space-between; */
+  /* flex-wrap:wrap;
   list-style-type: none;
-  margin-left: 350px;
-  /* color:white; */
+  */
  
- }
+ /* } */ */
  
- i:hover {
+ /* i:hover {
   background-color: #83C0EE;
-}
+} */
   #content{
      
       margin-top: 100px;
@@ -64,8 +65,11 @@ nav li {
   }
 
   .skills{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
     color:black;
-    /* margin-left: 60px; */
+   
     text-align: center;
     
   }
@@ -82,9 +86,8 @@ nav li {
     width: 600px;
     border: 10px solid #094470;
     background-color: white;
-    margin-left:350px;
-    text-align: center;
     margin-top: 150px;
+    margin-left: 300px;
   }
 
   .icon-text{

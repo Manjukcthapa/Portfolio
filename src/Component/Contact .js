@@ -35,7 +35,7 @@ class Contact extends React.Component {
                 <i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
               </div>
               <div>
-                <p className="phonenumber">West Paces Ferry Rd, GA</p>
+                <p className="phonenumber">Atlanta, GA</p>
               </div>
             </div>
           </div>

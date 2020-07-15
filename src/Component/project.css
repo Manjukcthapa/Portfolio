@@ -55,6 +55,13 @@
     padding-left: 10px;
 }
 
+.items{
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  padding-right: 5px;
+  padding-left: 25px;
+}
+
 .project-button{
   display: flex;
   flex-direction: row;

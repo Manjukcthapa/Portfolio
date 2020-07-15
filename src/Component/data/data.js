@@ -27,7 +27,7 @@ import image3 from '../../images/nci.png';
         "githublink":"https://github.com/mympy-dreamers/Frontend",
         "livelink":"https://mympydreamers.netlify.com/",
         "responsibility": [
-            "Implemented creat and edit dreams page. updated CSS and HTML to make sure website was looking as per UX design, wrote unite and integration tests.",
+            "Implemented creat and edit dreams page. updated CSS and HTML to make sure website was looking as per UX design, wrote unit and integration tests.",
             "Built CRUD REST APIs, designed tables, database seeds and middle-ware for the application."
         ]
     },

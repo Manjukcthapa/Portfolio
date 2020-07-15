@@ -19,7 +19,7 @@ class ProjectList extends Component {
                     {post.contain}
                   </p>
                   <p>
-                    <ul>
+                    <ul className="items">
                     { post.responsibility.map(item => {
                       return <li>{item}</li>
                     })}

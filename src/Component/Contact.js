@@ -23,7 +23,7 @@ class Contact extends React.Component {
                 <i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
               </div>
               <div>
-                <a className="phonenumber" href="">kcmanjuthapa@gmail.com</a>
+                <a className="phonenumber">kcmanjuthapa@gmail.com</a>
               </div>
             </div>
           </div>

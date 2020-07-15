@@ -125,13 +125,28 @@ html {
   }
 
   .home-para{
-    padding-right: 200px;
+    padding-left: 100px;
     padding-bottom: 10px;
-    padding-left: 200px;
+    padding-right: 100px;
     color:white;
-    font-size: 20px; 
-    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;  
+
   }
+
+  .aboutme {
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .aboutme {
+      margin-left:10px;
+      padding-right: 30px;
+    }
+  }
+
+  
+
+ 
   
 
    

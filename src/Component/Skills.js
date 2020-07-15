@@ -12,8 +12,10 @@ function Skills() {
           <p>css</p>
           <p>Java Scritp</p>
           <p>React</p>
+          <p>React Hooks</p>
           <p>Redux</p>
           <p>Bootstrape</p>
+          <p>SAAS</p>
         </div>
 
         <div className="thirddiv">
@@ -23,6 +25,8 @@ function Skills() {
           <p>Postgres</p>
           <p>Pgadmin</p>
           <p>Database</p>
+          <p>Python</p>
+          <p>Mangodb</p>
         </div>
       </div>
     </div>

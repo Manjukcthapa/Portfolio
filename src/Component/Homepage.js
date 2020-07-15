@@ -13,9 +13,11 @@ class HomePage extends React.Component {
             <div className="home-para">
             <p>
               I am a Full Stack Developer with a passion for solving problems. I
-              have proficiency in HTML5, CSS3, SaaS, Bootstrap, Vanilla
-              JavaScript, React, React-Native, Redux, Nodejs, Mangodb, Axios,
-               Python, Django, Sqlite3.
+              recently completed Lambda School, a 9 month coding academy.During my
+              freetime I love to go hiking, camping, fishing as well love to attend 
+              local meetups. I am available for fulltime employment and can start 
+              immediately. I am currently located in Atlanta, GA but willing to relocate.
+
             </p>
             </div>
           </div>

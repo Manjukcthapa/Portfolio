@@ -18,6 +18,13 @@ class ProjectList extends Component {
                   <p className="project-header" className="paragraph">
                     {post.contain}
                   </p>
+                  <p>
+                    <ul>
+                    { post.responsibility.map(item => {
+                      return <li>{item}</li>
+                    })}
+                    </ul>
+                  </p>
                   <p className="project-header paragraph ">{post.technology}</p>
                 </div>
 

@@ -11,7 +11,11 @@ import image3 from '../../images/nci.png';
         "contain":"Picasso is a web app, where user can upload their pic and it coverts to Picaso painting.",
         "technology": "React, HTML, CSS, Rest API,Node JS,Styled Component, Postgress",
         "githublink":"https://github.com/buildweekpicasso/manjuLanding",
-        "livelink":"https://picasso-manju.now.sh/"
+        "livelink":"https://picasso-manju.now.sh/",
+        "responsibility": [
+            "Build the landing page and about page using HTML and CSS",
+            "Created web page fully mobile responsive using media querry and CSS "
+        ]
     },
 
     {
@@ -21,8 +25,11 @@ import image3 from '../../images/nci.png';
         "contain":"Mympy Dreams is a marketplace where individuals can create a profile and post their project and needs and find funding from the Mymphy Dreams community.",
         "technology":" React, Redux, Postgress,Rest API, AuthO, Stripe,Cloudnary, NodeJS",
         "githublink":"https://github.com/mympy-dreamers/Frontend",
-        "livelink":"https://mympydreamers.netlify.com/"
-
+        "livelink":"https://mympydreamers.netlify.com/",
+        "responsibility": [
+            "Implemented creat and edit dreams page. updated CSS and HTML to make sure website was looking as per UX design, wrote unite and integration tests.",
+            "Built CRUD REST APIs, designed tables, database seeds and middle-ware for the application."
+        ]
     },
     {
         "id":3,
@@ -31,8 +38,11 @@ import image3 from '../../images/nci.png';
         "contain":"Single Project application for tourist lovers. A place for guide and tourist to meet and share their experience." ,
         "technology":"React, CSS, Styled Components, Express, Rest API, Node JS, Sqlite3",
         "githublink":"https://github.com/wanderlust-bw/wanderlust-FE-Manju",
-        "livelink":"https://wonderlust-manju.herokuapp.com/SignUp"
-
+        "livelink":"https://wonderlust-manju.herokuapp.com/SignUp",
+        "responsibility": [
+            "Front end developer for a responsive website built on React with Styled Component",
+            "Responsible for assignig tasks and code review "
+        ]
     },
     {
         "id":4,
@@ -41,9 +51,11 @@ import image3 from '../../images/nci.png';
         "contain":"International Child Nutrition is a web application. The purpose of creating this application was to keep tracking the record of child screening. Working as a Backend with 5 developers.",
         "technology":" React, Redux, Nodejs, Sqlite3, Rest API, Knex,HTML, CSS, Styled Component",
         "githublink":"https://github.com/intlChildNutrition/intlChildNutrition-BE",
-        "livelink":"https://icn-tracking.netlify.com/dashboard"
-
+        "livelink":"https://icn-tracking.netlify.com/dashboard",
+        "responsibility": [
+            "Built CRUD REST APIs, designed tables, database seeds and middle-ware for the application.",
+            "Responsible for assigning tasks and code review and deployed the server in heroku"
+        ]
     }
-
   
 ]

@@ -1,11 +1,12 @@
 
 .project-div {
   background: white !important;
-  height: 500px;
+  /* height: 500px; */
   width: 315px;
   margin-top: 20px;
   margin-left: 32px;
   border: 10px solid #094470;
+ 
 }
 
 .project-map {
@@ -13,7 +14,12 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  position: absolute;
   
+}
+
+.card-div{
+  position: relative;
 }
 
 .project-img {
@@ -61,6 +67,7 @@
   width:80px;
   margin-left: 10px;
   background: #094470;
-  color:white
+  color:white;
+  margin-bottom: 15px;
 }
 

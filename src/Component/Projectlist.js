@@ -11,6 +11,7 @@ class ProjectList extends Component {
           {data.map((post, id) => {
             return (
               <div className="project-div">
+                <div className="card-div">
                 <img className="project-img" src={post.img}></img>
                 <div classname="project-decpt">
                   <h1 className="project-header project-title">{post.title}</h1>
@@ -31,6 +32,7 @@ class ProjectList extends Component {
                       <button className="link-button">LiveLink</button>
                     </a>
                   </div>
+                </div>
                 </div>
               </div>
             );

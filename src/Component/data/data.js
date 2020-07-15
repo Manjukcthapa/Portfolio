@@ -19,7 +19,7 @@ import image3 from '../../images/nci.png';
         "img":image1,
         "title":"Mympy Dreamers",
         "contain":"Mympy Dreams is a marketplace where individuals can create a profile and post their project and needs and find funding from the Mymphy Dreams community.",
-        "technology":"React, Redux, Postgress,Rest API, AuthO, Stripe,Cloudnary, NodeJs",
+        "technology":" React, Redux, Postgress,Rest API, AuthO, Stripe,Cloudnary, NodeJS",
         "githublink":"https://github.com/mympy-dreamers/Frontend",
         "livelink":"https://mympydreamers.netlify.com/"
 
@@ -39,7 +39,7 @@ import image3 from '../../images/nci.png';
         "img":image3,
         "title":"Intl Child Nutrition",
         "contain":"International Child Nutrition is a web application. The purpose of creating this application was to keep tracking the record of child screening. Working as a Backend with 5 developers.",
-        "technology":" React, Redux, Nodejs, Sqlite3, Rest API, Knex,HTML, CSS",
+        "technology":" React, Redux, Nodejs, Sqlite3, Rest API, Knex,HTML, CSS, Styled Component",
         "githublink":"https://github.com/intlChildNutrition/intlChildNutrition-BE",
         "livelink":"https://icn-tracking.netlify.com/dashboard"
 

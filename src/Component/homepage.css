@@ -134,13 +134,10 @@ html {
 
   }
 
-  .aboutme {
-  }
   
   @media only screen and (max-width: 600px) {
-    .aboutme {
-      margin-left:10px;
-      padding-right: 30px;
+    .aboutme{
+      padding-right: 20px;
     }
   }
 

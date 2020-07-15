@@ -19,6 +19,12 @@ class HomePage extends React.Component {
                 fulltime employment and can start immediately. I am currently
                 located in Atlanta, GA but willing to relocate.
               </p>
+              <h1>Skills</h1>
+              <p>
+                HTML | CSS | SASS | JavaScript | React | React Hooks | Redux |
+                Responsive Design | Styled Component| Node JS | Python | Sqlite3
+                | Postgres | Express | Knex | Jest | Heroku | Netlify
+              </p>
             </div>
           </div>
         </div>

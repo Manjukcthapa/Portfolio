@@ -6,7 +6,7 @@ class Contact extends React.Component {
     return (
       <div className="information">
         <div className="contact">
-          <h3 className="header3">MY Phone</h3>
+          <h3 className="header3">Phone</h3>
           <div className="contacticon">
             <div>
               <i class="fa fa-phone-square fa-2x" aria-hidden="true"></i>

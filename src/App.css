@@ -18,9 +18,26 @@ nav ul{
   justify-content: space-evenly;
 }
 
-nav li{
+
+/* nav li{
   position: relative;
+} */
+
+@media only screen and (max-width: 600px) {
+  nav ul{
+   margin-right: 25px;
+  }
 }
+
+@media only screen and (max-width: 600px) {
+  li{
+   padding-left: 2px;
+   padding-right: 2px;
+   margin-right: 10px;
+  }
+}
+
+
 
 
 

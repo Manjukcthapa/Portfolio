@@ -4,6 +4,7 @@ import Home from './Component/Homepage';
 import Project from './Component/Projectlist'
 import Education from './Component/Education'
 import Contact from './Component/Contact'
+import Resume from './../public/ManjuKcResumeV1.pdf'
 import "./App.css";
 
 class App extends Component {
@@ -17,7 +18,7 @@ class App extends Component {
             <li><Link to={'/Project'} className="nav-link"><span>Projects</span></Link></li>
             <li><Link to={'/Education'} className="nav-link"><span>Education</span></Link></li>
             <li><Link to={'/Contact'} className="nav-link"><span>Contact</span></Link></li>
-            <a className="resume">Resume</a>
+            <a className="resume" href={Resume}>Resume</a>
           </ul>
           </nav>
           <hr />

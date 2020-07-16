@@ -9,6 +9,13 @@
  
 }
 
+@media only screen and (max-width: 600px) {
+  .project-div {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+
 .project-map {
   display: flex;
   flex-direction: row;

@@ -136,8 +136,8 @@ html {
 
   
   @media only screen and (max-width: 600px) {
-    .aboutme{
-      padding-right: 20px;
+    .home-para{
+      width:200px;
     }
   }
 

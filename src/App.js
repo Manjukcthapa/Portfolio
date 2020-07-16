@@ -4,7 +4,7 @@ import Home from './Component/Homepage';
 import Project from './Component/Projectlist'
 import Education from './Component/Education'
 import Contact from './Component/Contact'
-import Resume from './../public/ManjuKcResumeV1.pdf'
+import Resume from './../public/ManjuFinalResume.pdf'
 import "./App.css";
 
 class App extends Component {

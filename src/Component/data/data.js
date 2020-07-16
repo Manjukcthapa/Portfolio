@@ -38,7 +38,7 @@ import image3 from '../../images/nci.png';
         "contain":"Single Project application for tourist lovers. A place for guides and tourists to meet and share their experience." ,
         "technology":"React, CSS, Styled Components, Express, Rest API, Node JS, Sqlite3",
         "githublink":"https://github.com/wanderlust-bw/wanderlust-FE-Manju",
-        "livelink":"https://wonderlust-manju.herokuapp.com/SignUp",
+        "livelink":"https://wanderlust-ui.netlify.app/",
         "responsibility": [
             "Front end developer for a responsive website built on React with Styled Component.",
             "Responsible for assigning tasks and code review. "

@@ -9,7 +9,7 @@ class Education extends React.Component {
           <h3 className="edu-head">Lambda School of Computer Science</h3>
           <div className="education-header">
             <p className="edu-para">
-              Lambda School is a 40 week Full-Time, All-Immersive online
+              Lambda School is a 52 week Full-Time, All-Immersive online
               Bootcamp. They break down by the week on what you learn, Units are
               then broken into 4 weeks. At the end of every 3 weeks, the
               students do a school-wide build-week where students all over the

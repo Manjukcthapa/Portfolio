@@ -1,25 +1,28 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Resume from "../../public/ManjuResume.pdf";
+import "./header.css";
 
 function Header() {
   return (
-    <div>
-      <h1>My Portfolio</h1>
-      <nav>
-        <Link to={"/"}>
+    <div className = "header">
+       
+      <h1 className="header-h1">My Portfolio</h1>
+     
+      <nav className = "header-nav">
+        <Link className = "header-link" to={"/"}>
           <span>About</span>
         </Link>
-        <Link to={"/Project"} className="nav-link">
+        <Link className = "header-link" to={"/Project"}>
           <span>Projects</span>
         </Link>
-        <Link to={"/Education"} className="nav-link">
+        <Link className = "header-link" to={"/Education"} >
           <span>Education</span>
         </Link>
-        <Link to={"/Contact"} className="nav-link">
+        <Link  className = "header-link" to={"/Contact"}>
           <span>Contact</span>
         </Link>
-        <a className="resume" href={Resume}>
+        <a className = "header-link" href={Resume}>
           Resume
         </a>
       </nav>

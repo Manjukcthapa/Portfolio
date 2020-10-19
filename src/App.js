@@ -5,6 +5,7 @@ import Project from './Component/Projectlist'
 import Education from './Component/Education'
 import Contact from './Component/Contact'
 import Resume from './../public/ManjuResume.pdf'
+import Header from "./Component/Header"
 import "./App.css";
 
 class App extends Component {
@@ -12,16 +13,7 @@ class App extends Component {
     return (
     <Router>
         <div className="App">
-          <nav className="nav">
-          <ul>
-            <li><Link to={'/'} className="nav-link"><span>About</span></Link></li>
-            <li><Link to={'/Project'} className="nav-link"><span>Projects</span></Link></li>
-            <li><Link to={'/Education'} className="nav-link"><span>Education</span></Link></li>
-            <li><Link to={'/Contact'} className="nav-link"><span>Contact</span></Link></li>
-            <a className="resume" href={Resume}>Resume</a>
-          </ul>
-          </nav>
-          <hr />
+          <Header/>
           <Switch>
               <Route exact path='/' component={Home} />
               <Route path='/Project' component={Project}/>

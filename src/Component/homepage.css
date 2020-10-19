@@ -1,4 +1,4 @@
-html {
+/* html {
     height: 100%;
   }
   
@@ -17,7 +17,7 @@ html {
   }
 
  
- /* nav li {
+ nav li {
    text-decoration: none;
    padding-left: 100px;
     }
@@ -28,16 +28,16 @@ html {
   text-align:center;
   flex-direction: row ;
   justify-content: center;
-  justify-content: space-between; */
-  /* flex-wrap:wrap;
+  justify-content: space-between; 
+  flex-wrap:wrap;
   list-style-type: none;
   
  
   } 
-  */
-  /* i:hover {
+  
+   i:hover {
   background-color: #83C0EE;
-}  */ 
+}  
 
   #content{
       text-align: center;
@@ -95,7 +95,7 @@ html {
     border: 10px solid #094470;
     background-color: white;
     margin-top: 130px;
-    /* margin-left: 300px; */
+  
   }
 
   .skilltype{
@@ -139,7 +139,7 @@ html {
     .aboutme{
      margin-left: 20px;
     }
-  }
+  } */
 
   
 

@@ -9,8 +9,8 @@ import image4 from "../../images/amazonclone.png"
     {
         "id":1,
         "img":image4,
-        "title": "Amazon_Clone",
-        "contain":"Amazon_Clone is a e-commerce web app, where people can do shopping through online.",
+        "title": "Amazon Clone",
+        "contain":"Amazon Clone is a e-commerce web app, where people can do shopping through online.",
         "technology": "React, HTML, CSS, React Context API, Firebase, Material UI",
         "githublink":"https://github.com/Manjukcthapa/Amazon-clone",
         "livelink":"https://manju-amazon.vercel.app/",

@@ -7,7 +7,7 @@ class ProjectList extends Component {
     return (
       <div>
         
-        <h1 className="project-heading">My Projects</h1>
+        <h1 className="project-heading">Projects</h1>
         <div className="project-map">
           {data.map((post, id) => {
             return (

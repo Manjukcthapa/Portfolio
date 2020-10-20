@@ -9,7 +9,7 @@ justify-content: center;
   height:400px;
   border-radius: 50%;
   border: 1px solid #034f84;
-  margin-top: 50px;
+  margin-top: 40px;
   background-color: white;
   margin-left: 110px;
 }
@@ -49,6 +49,10 @@ background-color: #F5F5F5;
 width:50%;
 margin-top:100px;
 
+}
+
+.homepage-about{
+  color:#034f84;
 }
   
 

@@ -10,7 +10,7 @@ class HomePage extends React.Component {
         <img className="team-img1" alt="profile" src={image} />
         </div>
         <div className="homepage-context">
-          <h1>Manju KC</h1>
+          <h1 className="homepage-about">About Me</h1>
           <p className="about-me">
             I am a Full Stack Developer with a passion for solving problems. I
             recently completed Lambda School, a 9-month coding academy. During
@@ -19,14 +19,14 @@ class HomePage extends React.Component {
             can start immediately. I am currently located in Atlanta, GA but
             willing to relocate.
           </p>
-          <h1>Skills</h1>
+          <h1 className="homepage-about">Skills</h1>
           <p className="aboutme">
             HTML | CSS | SASS | JavaScript | React | React Hooks | Redux |
             Responsive Design | Styled Component| Node JS | Python | Sqlite3 |
             Postgres | Express | Knex | Jest | Heroku | Netlify
           </p>
 
-          <h2 className="icon-text">Find me on...</h2>
+          <h2 className="icon-text homepage-about">Find me on...</h2>
           <div className="home-icon">
             <li className="home-item">
               <a

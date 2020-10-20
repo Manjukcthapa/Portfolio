@@ -1,4 +1,4 @@
- 
+/*  
  .project-div {
   background: white !important;
  
@@ -84,5 +84,8 @@
   background: #094470;
   color:white;
   margin-bottom: 15px;
-}
+} */
  
+.project-heading{
+  color:#034f84 ;
+}

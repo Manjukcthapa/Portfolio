@@ -6,7 +6,9 @@ class HomePage extends React.Component {
   render() {
     return (
       <div className="homepage">
+        <div className="home-img">
         <img className="team-img1" alt="profile" src={image} />
+        </div>
         <div className="homepage-context">
           <h1>Manju KC</h1>
           <p className="about-me">

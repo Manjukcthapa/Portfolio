@@ -5,24 +5,24 @@ import "./header.css";
 
 function Header() {
   return (
-    <div className = "header">
+    <div className="header">
        
       <h1 className="header-h1">My Portfolio</h1>
      
-      <nav className = "header-nav">
-        <Link className = "header-link" to={"/"}>
+      <nav className="header-nav">
+        <Link className="header-link" to={"/"}>
           <span>About</span>
         </Link>
-        <Link className = "header-link" to={"/Project"}>
+        <Link className="header-link" to={"/Project"}>
           <span>Projects</span>
         </Link>
-        <Link className = "header-link" to={"/Education"} >
+        <Link className="header-link" to={"/Education"} >
           <span>Education</span>
         </Link>
-        <Link  className = "header-link" to={"/Contact"}>
+        <Link  className="header-link" to={"/Contact"}>
           <span>Contact</span>
         </Link>
-        <a className = "header-link" href={Resume}>
+        <a className="header-link" href={Resume}>
           Resume
         </a>
       </nav>

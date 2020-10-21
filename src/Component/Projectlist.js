@@ -16,7 +16,8 @@ class ProjectList extends Component {
                   <div className="project-maintilte">
                 <h1>{post.title}</h1>
                 </div>
-                <p className="project-header" className="paragraph">
+                <div className="project-content">
+                <p className="project-header" >
                   {post.contain}
                 </p>
                 <p>
@@ -27,7 +28,7 @@ class ProjectList extends Component {
                   </ul>
                 </p>
                 <p className="project-header paragraph ">{post.technology}</p>
-
+                   </div>
                 <a href={post.githublink}>
                   <button className="link-button">Github</button>
                 </a>

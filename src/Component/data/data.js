@@ -2,7 +2,8 @@ import image from '../../images/img.png';
 import image1 from '../../images/mympy.png';
 import image2 from '../../images/wanderlust.png';
 import image3 from '../../images/nci.png';
-import image4 from "../../images/amazonclone.png"
+import image4 from "../../images/amazonclone.png";
+import image5 from "../../images/bestplace.png"
 
  export default [
 
@@ -19,20 +20,20 @@ import image4 from "../../images/amazonclone.png"
             "Created diffrent components like home , product ,checkout , checkout product, subtotal, and proccedcheckout pages using React Context API and diffrent styling libaries "
         ]
     },
+
     {
         "id":2,
-        "img":image,
-        "title": "Picasso Web App",
-        "contain":"Picasso is a web app, where user can upload their pic and it coverts to Picasso painting.",
-        "technology": "React, HTML, CSS, Rest API,Node JS,Styled Component, Postgress",
-        "githublink":"https://github.com/buildweekpicasso/manjuLanding",
-        "livelink":"https://picasso-manju.now.sh/",
+        "img":image5,
+        "title": "Live in the Best Place",
+        "contain":"The app Live in the Best Place helps users find the best location to live based on their preferences.Built a fully functional Back-End with two other developers.",
+        "technology": "React, Redux, Styled Component, Jest, MongoDB, NodeJS, Express",
+        "githublink":"https://github.com/Lambda-School-Labs/best-places-to-live-be",
+        "livelink":"https://hungry-dijkstra-8e44ea.netlify.app/",
         "responsibility": [
-            "Build the landing page and about page using HTML and CSS",
-            "Created web page fully mobile responsive using media query and CSS"
+            "Responsible for creating REST endpoints and database table and seeds, storing backups and replications, workability with third-party services.",
+            "Wrote unit and integration tests. "
         ]
     },
-
     {
         "id":3,
         "img":image1,
@@ -48,6 +49,21 @@ import image4 from "../../images/amazonclone.png"
     },
     {
         "id":4,
+        "img":image,
+        "title": "Picasso Web App",
+        "contain":"Picasso is a web app, where user can upload their pic and it coverts to Picasso painting.",
+        "technology": "React, HTML, CSS, Rest API,Node JS,Styled Component, Postgress",
+        "githublink":"https://github.com/buildweekpicasso/manjuLanding",
+        "livelink":"https://picasso-manju.now.sh/",
+        "responsibility": [
+            "Build the landing page and about page using HTML and CSS",
+            "Created web page fully mobile responsive using media query and CSS"
+        ]
+    },
+
+    
+    {
+        "id":5,
         "img":image2,
         "title":"Wanderlust",
         "contain":"Single Project application for tourist lovers. A place for guides and tourists to meet and share their experience." ,
@@ -60,7 +76,7 @@ import image4 from "../../images/amazonclone.png"
         ]
     },
     {
-        "id":5,
+        "id":6,
         "img":image3,
         "title":"Intl Child Nutrition",
         "contain":"International Child Nutrition is a web application. The purpose of creating this application was to keep tracking the record of child screening. Working as a Backend with 5 developers.",

@@ -16,7 +16,7 @@ justify-content: center;
 
 .homepage-context{
   margin-left: 60px;
-  margin-top: 80px;
+  margin-top: 90px;
   width:30%;
   
   
@@ -53,6 +53,7 @@ margin-top:100px;
 
 .homepage-about{
   color:#034f84;
+  margin-top: 15px;
 }
   
 

@@ -130,8 +130,10 @@ li {
   background-color:#034f84 ;
   color:white;
   margin-left: 10px;
-  height:40px;
-  width:40%;
+  height:45px;
+  width:45%;
+  font-size: 20px;
+  border-radius: 10px;
 }
 
 .project-maintilte{
